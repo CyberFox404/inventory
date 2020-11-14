@@ -1,0 +1,88 @@
+ body {
+	
+	background: #D1CA96;
+	background: #B1AD7E;
+	
+	
+	background: rgb(195, 194, 176);
+	background: #C3C2B0;
+	background: #CCCCCC;
+	background: #EFEFEF;
+	background: #F7F7F7;
+	background: #F8FCFF;
+	background: #EFEFEF;
+	background: #E5E5E5;
+	background: #DEDEDE;
+	background: #F9F7F7;
+	background: #F9F9F9;
+	   background: #F9F9F9;
+
+			padding: 15px;
+		}
+		ul.fancytree-container {
+			border: none;
+		}
+		/* Reduce bootstrap's default 'panel' padding: */
+		div#tree {
+			padding: 3px 5px;
+		}
+		
+		
+		
+		
+		.nav-tabs>li.active>a, .nav-tabs>li.active>a:focus, .nav-tabs>li.active>a:hover {
+
+    background-color: #F9F9F9 !important;
+    background-color: #FFFFFF !important;
+
+}
+		
+		.breadcrumb {
+
+    border: 1px solid #D4D4D4;
+    border-radius: 4px;
+    -webkit-box-shadow: 0 1px 1px rgba(0,0,0,.05);
+    box-shadow: 0 1px 1px rgba(0,0,0,.05);
+}
+
+	
+			
+			
+			.cf_author {
+				
+				position: absolute;
+    bottom: 0px;
+    left: 0px;
+    right: 0px;
+    text-align: center;
+    font-size: 10px;
+    font-family: Verdana;
+    color: #444;
+    padding: 2px;
+				
+			}
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			

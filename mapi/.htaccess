@@ -1,0 +1,18 @@
+DirectoryIndex index.php
+
+IndexIgnore .htaccess
+
+# запрет выдачи листинга
+Options -Indexes
+
+# Страницы ошибок
+ErrorDocument 400 /
+ErrorDocument 401 /
+ErrorDocument 403 /
+ErrorDocument 404 /
+ErrorDocument 500 /
+
+<FilesMatch ".(htaccess|htpasswd|ini|phps|fla|psd|log|sh)$">
+	Order Allow,Deny
+	Deny from all
+</FilesMatch>
