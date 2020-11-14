@@ -14,7 +14,7 @@
 
 
 -- Дамп структуры базы данных inventory
--- CREATE DATABASE IF NOT EXISTS `u358373213__inventory` /*!40100 DEFAULT CHARACTER SET utf8 */;
+CREATE DATABASE IF NOT EXISTS `u358373213__inventory` /*!40100 DEFAULT CHARACTER SET utf8 */;
 USE `u358373213__inventory`;
 
 -- Дамп структуры для таблица inventory.inventory_data
